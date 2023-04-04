@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C#,Laravel**
 
-- 👯 I’m looking to collaborate on [Panga's Api](https://v1.pangaapi.com/documents)
+- 👯 I’m looking to collaborate on [Panga's Api](https://v1.api.panganet.com/documents)
 
 - 👨‍💻 All of my projects are available at [shepherdumanah.com](shepherdumanah.com)
 
